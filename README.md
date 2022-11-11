@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Molmshaug
 - 👀 I’m interested in sport science
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on statistical projects
 
 
 <!---
